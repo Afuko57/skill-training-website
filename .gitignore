@@ -1,0 +1,11 @@
+# .gitignore
+
+# Ignore specific file
+server/db.js
+
+# Ignore files in a specific directory
+server/.env
+
+server/node_modules
+
+client/node_modules
